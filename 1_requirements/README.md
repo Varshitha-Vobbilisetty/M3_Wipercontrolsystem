@@ -12,11 +12,15 @@ The system uses a combination of impedance and Impedance sensor to detect rain a
 # Advantages
 
  You can make your own.
+ 
  Work with a basic principle.
- Very easy to make
+ 
+ Very easy to make.
+ 
  Easy to handle.
  
 # Disadvantages
 
 Alert will be start when rain is there, sometimes it disturbs human.
+
  It has to be in few heights so that something could not enter
