@@ -23,4 +23,4 @@ The system uses a combination of impedance and Impedance sensor to detect rain a
 
 Alert will be start when rain is there, sometimes it disturbs human.
 
- It has to be in few heights so that something could not enter
+It has to be in few heights so that something could not enter
